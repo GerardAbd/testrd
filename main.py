@@ -16,3 +16,7 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 #comment
 print('Hello!)
+a = 12
+b = 10
+c= a + b
+print(c)
